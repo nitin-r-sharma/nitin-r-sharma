@@ -188,10 +188,6 @@ I actively contribute through architecture guidance, capability building, and te
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitin-r-sharma&theme=transparent&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nitin-r-sharma&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
